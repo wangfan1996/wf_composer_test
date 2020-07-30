@@ -1,13 +1,9 @@
 {
-    "name": "administrator/composer-test",
+    "name": "wangfan/test",
     "authors": [
         {
-            "name": "张三",
-            "email": "zhangsan@qq.com"
-        },
-        {
-            "name": "李四",
-            "email": "lisi@qq.com"
+            "name": "王帆",
+            "email": "1356316925@qq.com"
         }
     ],
     "require": {
