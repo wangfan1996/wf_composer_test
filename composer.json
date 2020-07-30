@@ -1,0 +1,21 @@
+{
+    "name": "administrator/composer-test",
+    "authors": [
+        {
+            "name": "张三",
+            "email": "zhangsan@qq.com"
+        },
+        {
+            "name": "李四",
+            "email": "lisi@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.1.13"
+    },
+    "autoload": {
+        "psr-4": {
+            "Siam\\": "src/siam"
+        }
+    }
+}
